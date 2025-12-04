@@ -1,0 +1,7 @@
+{
+  "name": "Elegance Boutique Manager",
+  "description": "A premium business management suite for tracking inventory, sales, and customer installments with an elegant Gold & Black aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
